@@ -1,8 +1,13 @@
 # 👋 Welcome to My Profile – Mahmoud Sabry
 
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%" /><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%" />
+
+<!-- Banner with your image -->
+<img src="https://raw.githubusercontent.com/mahmoudsabri200/mahmoudsabri200/main/assets/banner-mahmoud.png"  width="100%">
+
+<!-- Professional AI GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdmcWg4NzI0b2JtdDZsMnVoaHgybW15dDFubTY0bHkyb2N6cXRnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IpQwf1M2ifd8D1CwZz/giphy.gif" alt="AI Developer Banner" width="75%" />
+
 </div>
 
 ---
@@ -47,6 +52,7 @@ Passionate about building real-world projects that solve societal challenges—e
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+
 ---
 
 ## 📂 Featured Projects
@@ -62,21 +68,58 @@ Passionate about building real-world projects that solve societal challenges—e
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoudsabri200&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&hide=stars" width="35%" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsabri200&layout=compact&theme=tokyonight&langs_count=6" width="35%" alt="Top Languages" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudsabri200&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+
+</div>
+
+
+
+
+---
+
+## 🔬 Domains I Work In
+
+<div align="center">
+
+<!-- Machine Learning -->
+<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" alt="Machine Learning" width="23%" />
+
+<!-- Deep Learning -->
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Deep Learning" width="23%" />
+
+<!-- Computer Vision -->
+<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Computer Vision" width="23%" />
+
+<!-- NLP -->
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Natural Language Processing" width="23%" />
+
 </div>
 
 ---
 
 ## 📬 Contact Me
 
-## 📬 Contact Me
+<div align="center">
 
-- 💬 WhatsApp: [Chat with me](https://wa.me/201222306648)
-- 💼 LinkedIn: [Mahmoud Sabry](https://www.linkedin.com/in/mahmoud-sabri-854812282)
-- 📫 Email: mahmoudsabri11111@gmail.com
+<a href="https://www.linkedin.com/in/mahmoud-sabri-854812282" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://wa.me/201222306648" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+<a href="mailto:mahmoudsabri11111@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
+</div>
 
 ---
 
